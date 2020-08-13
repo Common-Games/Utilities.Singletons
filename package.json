@@ -1,0 +1,20 @@
+{
+  "name": "com.commongames.utilities.singletons",
+  "version": "1.0.0",
+  "displayName": "Utilites/Singletons",
+  "unity": "2019.4",
+  "keywords": [
+    "utilities",
+    "singleton",
+    "unity",
+    "cgtk",
+    "common-games"
+  ],
+  "author": {
+    "name": "Common Games",
+    "email": "walter-haynes@outlook.com"
+  },
+  "description": "A couple of handy Singletons.",
+  "type": "library",
+  "hideInEditor": false
+}
