@@ -3,7 +3,6 @@ A couple handy Singletons for MonoBehavious and ScriptableObjects
 
 ## Requirements
 - .NET Framework 4.5
-- JSON .NET For Unity (Free) - https://assetstore.unity.com/packages/tools/input-management/json-net-for-unity-11347
 
 ## Installing
 1. Go to the Package Manager (Under **Window/Package Manager**). 
