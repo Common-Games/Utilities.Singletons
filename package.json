@@ -1,7 +1,7 @@
 {
   "name": "com.commongames.utilities.singletons",
-  "version": "1.0.0",
-  "displayName": "Utilites/Singletons",
+  "version": "1.1.0",
+  "displayName": "Utilities/Singletons",
   "unity": "2019.4",
   "keywords": [
     "utilities",
@@ -12,6 +12,7 @@
   ],
   "author": {
     "name": "Common Games",
+    "url": "https://github.com/Common-Games",
     "email": "walter-haynes@outlook.com"
   },
   "description": "A couple of handy Singletons.",
